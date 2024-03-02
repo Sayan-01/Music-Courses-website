@@ -1,0 +1,94 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Learn the fundamentals of playing the piano from scratch.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "image": "piano-basics.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Guitar Essentials",
+      "slug": "guitar-essentials",
+      "description": "Master the basics of guitar playing and start your musical journey.",
+      "price": 39.99,
+      "instructor": "Jane Smith",
+      "image": "guitar-essentials.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Singing 101",
+      "slug": "singing-101",
+      "description": "Discover your voice and learn the essentials of singing technique.",
+      "price": 59.99,
+      "instructor": "Emily Johnson",
+      "image": "singing-101.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Fundamentals",
+      "slug": "music-theory-fundamentals",
+      "description": "Understand the basic concepts of music theory to enhance your musical skills.",
+      "price": 29.99,
+      "instructor": "Michael Brown",
+      "image": "music-theory-fundamentals.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Get started with drumming and learn the essential beats and rhythms.",
+      "price": 44.99,
+      "instructor": "Chris Davis",
+      "image": "drumming-basics.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Bass Guitar Mastery",
+      "slug": "bass-guitar-mastery",
+      "description": "Master the techniques and concepts essential for playing bass guitar.",
+      "price": 54.99,
+      "instructor": "Alex White",
+      "image": "bass-guitar-mastery.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Learn how to write and compose your own songs from scratch.",
+      "price": 49.99,
+      "instructor": "Sarah Green",
+      "image": "songwriting-workshop.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Explore the world of electronic music production and create your own tracks.",
+      "price": 69.99,
+      "instructor": "David Lee",
+      "image": "electronic-music-production.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "Start your journey with the violin and learn the basics of playing.",
+      "price": 39.99,
+      "instructor": "Sophia Martinez",
+      "image": "violin-for-beginners.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Music Production Masterclass",
+      "slug": "music-production-masterclass",
+      "description": "Take your music production skills to the next level with this comprehensive masterclass.",
+      "price": 79.99,
+      "instructor": "Daniel Wilson",
+      "image": "music-production-masterclass.jpg"
+    }
+  ]
+}
